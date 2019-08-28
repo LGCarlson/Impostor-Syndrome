@@ -1,9 +1,9 @@
 # Impostor-Syndrome
 
 
-*Underemployment: A Self-Imposed Opportunity Gap Sources*
+## Underemployment: A Self-Imposed Opportunity Gap Sources
 
-_Publications_
+### _Publications_
 
 Davidson, P. and R. Black. 2001. Women in natural resource management: finding a more balanced perspective. Society and Natural Resources 14(8):645-656.
 
@@ -40,7 +40,7 @@ Waite, S. 2017. Postgraduate wage premiums and the gender wage gap in Canada. Ca
 
 
 
-*Podcasts and Articles*
+### _Podcasts and Articles_
 
 Invisibilia: https://www.npr.org/podcasts/510307/invisibilia
 
